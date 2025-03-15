@@ -1,12 +1,12 @@
 # 【25年3月持续更新】国内最全 ChatGPT中文版镜像网站资源整理（无限使用GPT-4、4o和o1，无需翻墙）
 
-> **更新**：2025/03/14
+> **更新**：2025/03/16
 > 
 > **作者**：vbosoxo
 
 本项目为大家整理了一些国内可用的 ChatGPT 镜像网站，方便用户无需翻墙即可使用上 ChatGPT~
 
-同时提供了免费的使用教程，助您在国内使用上 ChatGPT 中文版镜像网站，无限制使用 GPT-4、4o 和 o1。
+同时提供了免费的使用教程，助您在国内使用上 ChatGPT 中文版镜像网站，无限制使用 GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3。
 
 ## 什么是 ChatGPT 中文版镜像网站？
 
@@ -20,7 +20,7 @@ ChatGPT 中文版镜像网站（ChatGPT Mirror）是指通过复制 ChatGPT 官�
 
 ## 精选推荐的国内 ChatGPT 中文版镜像网站
 
-- [https://songshugpt.com](https://songshugpt.com) - ChatGPT 中文版，运营快 2 年，支持 GPT4、4o 以及 o1，支持 AI 绘画，扫码就能用~
+- [https://songshugpt.com](https://songshugpt.com) - ChatGPT 中文版，运营快 2 年，支持 GPT4、GPT-o1、GPT-o3、Deepseek、Grok3，支持 AI 绘画，扫码就能用~
 - [https://gptdog.online/](https://gptdog.online/) - ChatGPT 镜像网站，运营快 2 年，支持 GPT4、4o 以及 o1，AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图~
 - [https://gptcat.net/](https://gptcat.net/) - ChatGPT 镜像网站，运营 1 年多，支持 GPT4、4o，支持 AI 绘画（Midjourney 和 Dall·E）
 - [https://ai-panda.xyz/](https://ai-panda.xyz/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
