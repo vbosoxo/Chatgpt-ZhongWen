@@ -20,7 +20,7 @@ ChatGPT 中文版镜像网站（ChatGPT Mirror）是指通过复制 ChatGPT 官�
 
 ## 精选推荐的国内 ChatGPT 中文版镜像网站
 
-- [https://songshugpt.com](https://songshugpt.com) - ChatGPT 中文版，运营快 2 年，支持 GPT4、GPT-o1、GPT-o3、Deepseek、Grok3，支持 AI 绘画，扫码就能用~
+- [https://www.songshugpt.com](https://www.songshugpt.com) - ChatGPT 中文版，运营快 2 年，支持 GPT4、GPT-o1、GPT-o3、Deepseek、Grok3，支持 AI 绘画，扫码就能用~
 - [https://gptdog.online/](https://gptdog.online/) - ChatGPT 镜像网站，运营快 2 年，支持 GPT4、4o 以及 o1，AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图~
 - [https://gptcat.net/](https://gptcat.net/) - ChatGPT 镜像网站，运营 1 年多，支持 GPT4、4o，支持 AI 绘画（Midjourney 和 Dall·E）
 - [https://ai-panda.xyz/](https://ai-panda.xyz/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
@@ -28,7 +28,7 @@ ChatGPT 中文版镜像网站（ChatGPT Mirror）是指通过复制 ChatGPT 官�
 
 ## 如何开始使用 ChatGPT？（详细教程）
 
-1. 选择上方的网址，如：[https://songshugpt.com](https://songshugpt.com)。
+1. 选择上方的网址，如：[https://www.songshugpt.com](https://www.songshugpt.com)。
 2. 在左上角，点击登录（也可以直接提问）。
 3. 弹出二维码后，使用微信扫码就可以了~~
 
